@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BakingApp2</string>
+    <string name="Ingredients">Ingredients : </string>
+    <string name="Steps">Steps : </string>
+    <string name="network_issue">Oops something went wrong , please make sure you are connected to the internet</string>
+    <string name="ingredient_body_text">1 egg\\n1 cup flour</string>
+</resources>
